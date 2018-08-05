@@ -1,5 +1,7 @@
 # Docker Tutorials and Labs
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/labs.svg)](https://www.guardrails.io)
+
 This repo contains [Docker](https://docker.com) labs and tutorials authored both by Docker, and by members of the community. We welcome contributions and want to grow the repo.
 
 #### Docker tutorials:
